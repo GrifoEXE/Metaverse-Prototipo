@@ -242,8 +242,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc979cf6cb10ed4b82b723e73c1b619, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 2.5
   rb: {fileID: 179192815}
+  animator: {fileID: 179192811}
   playerControls:
     m_Name: Player Controls
     m_Type: 0
